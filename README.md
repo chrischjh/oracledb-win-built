@@ -1,0 +1,4 @@
+- Built for win64 with Node.js v6.x.x
+- A lot of people got build issues during install official oracledb with npm, this built up package may help
+- Do not use in production environment
+- Will follow up the official oracledb version upgrade.
